@@ -1,0 +1,53 @@
+.head-section{
+    height: 75px;
+    text-align: left;
+    vertical-align: middle ;
+}
+
+.search-btn{
+    transition: all 0.25;
+    padding: 13px;
+    margin: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(152, 150, 150);
+    color: white;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 750px){
+    .search-btn{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 650px){
+    .head-section{
+        display: none;
+    }
+    
+
+}
+
+
+.head-section-logo{
+    margin: 15px;
+}
+.product-card{
+    text-align: center;
+}
+
+.detail-section{
+    display: grid;
+    grid-template-rows: auto auto auto;
+}
+
+p{
+    display: inline-block;
+}
+
+.star-rating{
+    display: inline-block;
+    margin-left: 20px;
+}
+
