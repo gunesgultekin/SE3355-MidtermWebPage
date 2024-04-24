@@ -1,7 +1,6 @@
 # Basic Implementation of a E-Commerce Site based on www.hepsiburada.com
 ## The site front-end was created using HTML, CSS, JavaScript and Bootstrap library.
-## Retrieves product information from a MSSQL database through requesting a Flask-based web api hosted on Azure Cloud
-
+## Retrieves product information from a MSSQL database through requesting a Flask-based web api hosted on Azure Cloud : https://github.com/gunesgultekin/SE3355-FlaskAPI
 ## Main Page
 
 ![index](https://github.com/gunesgultekin/WebProgramming-Midterm/assets/126399958/5dd4ca97-58c4-48cb-bfa0-b4c5ff9edac3)
